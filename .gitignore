@@ -1,4 +1,5 @@
 /gnucash-android/build
+/gnucash-android/app/build
 /gnucash-android/.gradle
 /gnucash-android/local.properties
 /gnucash-android/gradle/local.properties
